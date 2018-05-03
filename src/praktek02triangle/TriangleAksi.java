@@ -5,5 +5,7 @@ public class TriangleAksi {
         t1.sisi1 = 3;
         t1.sisi2 = 4;
         t1.sisi3 = 5;
+        
+        t1.cetakInfo();
     }
 }
